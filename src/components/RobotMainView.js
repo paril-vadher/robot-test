@@ -43,7 +43,7 @@ function RobotMainView() {
 
   return (
     <>
-      <h1 className="center">wedding shop - robot test</h1>
+      <h1 className="center">robot test</h1>
       <div className="center">
         <RobotInput
           onPlateauChange={change => plateauChanged(change)}
